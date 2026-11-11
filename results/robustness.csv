@@ -1,0 +1,6 @@
+,full_sharpe
+"as reported (lag 1, cost as set)",1.07501808427069
+"lag 0 (lookahead, wrong)",1.1176454331653674
+lag 2 (trade a day late),1.03818944833156
+10 bps costs,1.0286873075960987
+20 bps costs,0.9359020338000843
